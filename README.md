@@ -17,7 +17,7 @@ Ce projet applique un modèle TransUNet pour segmenter les images du dataset Arc
 ##  Résultats
 - F1-score sur le test set : **0.6951**
 
-##  Dépendances (optionnel)
+##  Dépendances 
 
 - torch
 - numpy
